@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/practicespa/static/css/main.d2fcf11a.chunk.css",
+    "main.js": "/practicespa/static/js/main.652401b6.chunk.js",
+    "main.js.map": "/practicespa/static/js/main.652401b6.chunk.js.map",
+    "runtime-main.js": "/practicespa/static/js/runtime-main.dec085fc.js",
+    "runtime-main.js.map": "/practicespa/static/js/runtime-main.dec085fc.js.map",
+    "static/js/2.6d405054.chunk.js": "/practicespa/static/js/2.6d405054.chunk.js",
+    "static/js/2.6d405054.chunk.js.map": "/practicespa/static/js/2.6d405054.chunk.js.map",
+    "index.html": "/practicespa/index.html",
+    "precache-manifest.cbc23a4edd04563650b60fa42c6bfaf0.js": "/practicespa/precache-manifest.cbc23a4edd04563650b60fa42c6bfaf0.js",
+    "service-worker.js": "/practicespa/service-worker.js",
+    "static/css/main.d2fcf11a.chunk.css.map": "/practicespa/static/css/main.d2fcf11a.chunk.css.map",
+    "static/js/2.6d405054.chunk.js.LICENSE.txt": "/practicespa/static/js/2.6d405054.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dec085fc.js",
+    "static/js/2.6d405054.chunk.js",
+    "static/css/main.d2fcf11a.chunk.css",
+    "static/js/main.652401b6.chunk.js"
+  ]
+}
